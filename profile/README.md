@@ -1,3 +1,3 @@
-# AA Wallet
+# Smarter Wallet
 
 
