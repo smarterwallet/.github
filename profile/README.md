@@ -1,11 +1,11 @@
 # Smarter Wallet
 
-## Public Repo List
+## Public Project List
 
 1. [SDK](https://github.com/smarterwallet/sdk)
 2. [API](https://github.com/smarterwallet/api)
 
-## Develop Repo List
+## Develop Project List
 
 1. [Official website](https://github.com/smarterwallet/official-website)
 2. [Wallet font end](https://github.com/smarterwallet/wallet-web)
