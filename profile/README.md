@@ -13,4 +13,5 @@
 4. [Wallet contract](https://github.com/smarterwallet/wallet-sol)
 5. [Decentralized storage](https://github.com/smarterwallet/storage-serv)
 6. [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
+7. [MPC lib](https://github.com/smarterwallet/mpc-lib)
 
