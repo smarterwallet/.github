@@ -14,4 +14,5 @@
 5. [Decentralized storage](https://github.com/smarterwallet/storage-serv)
 6. [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
 7. [MPC lib](https://github.com/smarterwallet/mpc-lib)
+8. [Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
 
