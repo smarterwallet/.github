@@ -11,8 +11,11 @@
 2. [Wallet font end](https://github.com/smarterwallet/wallet-web)
 3. [Wallet back end](https://github.com/smarterwallet/wallet-serv)
 4. [Wallet smart contract](https://github.com/smarterwallet/wallet-sol)
-5. [Decentralized storage](https://github.com/smarterwallet/storage-serv)
-6. [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
-7. [MPC lib](https://github.com/smarterwallet/mpc-lib)
-8. [Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
+5. Infrastructure:
+   - [Decentralized storage](https://github.com/smarterwallet/storage-serv)
+   - [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
+   - [MPC lib](https://github.com/smarterwallet/mpc-lib)
+6. DApps:
+  - [Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
+  - [Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)
 
