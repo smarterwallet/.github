@@ -16,6 +16,6 @@
    - [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
    - [MPC lib](https://github.com/smarterwallet/mpc-lib)
 6. DApps:
-  - [Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
-  - [Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)
+   - [Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
+   - [Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)
 
