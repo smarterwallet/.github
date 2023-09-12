@@ -8,7 +8,7 @@
 ## Develop Project List
 
 1. Font end:
-  - [Official website](https://github.com/smarterwallet/official-website)
+   - [Official website](https://github.com/smarterwallet/official-website)
   - [Wallet font end](https://github.com/smarterwallet/wallet-web)
 2. Back end:
   - [Wallet back end](https://github.com/smarterwallet/wallet-serv)
