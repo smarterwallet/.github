@@ -1,10 +1,10 @@
-# Smarter Wallet
+# Smarter AA Wallet
 
-## Public Project List
+## Documents
 
 [API](https://github.com/smarterwallet/api)
 
-## Develop Project List
+## Source Code
 
 1. Font end:
    - [Official website](https://github.com/smarterwallet/official-website)
