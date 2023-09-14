@@ -6,10 +6,10 @@
 
 ## Source Code
 
-### Font end:
+### Font End:
 - [Official website](https://github.com/smarterwallet/official-website)
 - [Wallet font end](https://github.com/smarterwallet/wallet-web)
-### Back end:
+### Back End:
 - [Wallet back end](https://github.com/smarterwallet/wallet-serv)
 - [Decentralized storage](https://github.com/smarterwallet/storage-serv)
 - [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
