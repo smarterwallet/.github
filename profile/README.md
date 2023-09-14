@@ -13,7 +13,6 @@
    - [Wallet back end](https://github.com/smarterwallet/wallet-serv)
    - [Decentralized storage](https://github.com/smarterwallet/storage-serv)
    - [Bundler](https://github.com/smarterwallet/stackup-bundler-go)
-   - [DApps: MPC lib](https://github.com/smarterwallet/mpc-lib)
    - [DApps: Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
    - [DApps: Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)
 3. Smart Contract:
