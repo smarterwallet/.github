@@ -14,4 +14,4 @@
 - [Wallet: Bundler](https://github.com/smarterwallet/stackup-bundler-go)
 
 ### Smart Contract
-- [Wallet: Auto trading](https://github.com/smarterwallet/auto-trading-sol)
+- [DApps: Auto trading](https://github.com/smarterwallet/auto-trading-sol)
