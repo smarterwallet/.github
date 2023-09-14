@@ -1,4 +1,4 @@
-# Smarter AA Wallet
+## Welcome to Smarter AA Wallet team 🙌
 
 ## Documents
 
@@ -14,4 +14,4 @@
 - [Wallet: Bundler](https://github.com/smarterwallet/stackup-bundler-go)
 
 ### Smart Contract
-- [Wallet smart contract](https://github.com/smarterwallet/wallet-sol)
+- [Wallet: Auto trading](https://github.com/smarterwallet/auto-trading-sol)
