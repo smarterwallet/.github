@@ -2,7 +2,7 @@
 
 ## Documents
 
-[API](https://github.com/smarterwallet/api)
+- [API](https://github.com/smarterwallet/api)
 
 ## Source Code
 
