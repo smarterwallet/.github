@@ -11,11 +11,11 @@
 - [Wallet font end](https://github.com/smarterwallet/wallet-web)
 
 ### Back End
-- [Wallet: Wallet auth service](https://github.com/smarterwallet/wallet-serv)
-- [Wallet: Decentralized storage](https://github.com/smarterwallet/storage-serv)
+- [Wallet: Wallet auth service](https://github.com/smarterwallet/wallet-serv)(Private)
+- [Wallet: Decentralized storage](https://github.com/smarterwallet/storage-serv)(Private)
 - [Wallet: Bundler](https://github.com/smarterwallet/stackup-bundler-go)
-- [DApps: Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)
-- [DApps: Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)
+- [DApps: Auto trading back end](https://github.com/smarterwallet/auto-trading-serv-py)(Private)
+- [DApps: Demand abstraction back end](https://github.com/smarterwallet/demand-abstraction-serv)(Private)
 
 ### Smart Contract
 - [Wallet smart contract](https://github.com/smarterwallet/wallet-sol)
