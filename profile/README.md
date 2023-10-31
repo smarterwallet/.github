@@ -6,9 +6,9 @@
 
 ## Source Code
 
-### Font End
+### Front End
 - [Official website](https://github.com/smarterwallet/official-website)
-- [Wallet font end](https://github.com/smarterwallet/wallet-web)
+- [Wallet front end](https://github.com/smarterwallet/wallet-web)
 
 ### Back End
 - [Wallet: Bundler](https://github.com/smarterwallet/stackup-bundler-go)
