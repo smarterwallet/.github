@@ -15,3 +15,4 @@
 
 ### Smart Contract
 - [DApps: Auto trading](https://github.com/smarterwallet/auto-trading-sol)
+- [DApps: Cross Chain CCIP](https://github.com/smarterwallet/cross-chain-ccip-sol)
