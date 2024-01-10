@@ -1,4 +1,4 @@
-## Welcome to Smarter AA Wallet team 🙌
+## Welcome to Smarter AA Wallet Team 🙌
 
 ## Documents
 
